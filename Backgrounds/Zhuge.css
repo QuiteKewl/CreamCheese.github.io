@@ -1,0 +1,11 @@
+header{
+    background-color: rgb(27, 27, 27);
+    padding:20px;
+    height:350px;
+    background-image: url(../images/ZhugeLiang1.jpg);
+    background-repeat: no-repeat;
+    background-size:1500px;
+    background-position:center;
+    background-position-y:-370px;
+    border-radius: 10px;
+}
